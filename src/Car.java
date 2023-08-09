@@ -1,4 +1,4 @@
-public class Car extends Transport{
+public class Car extends Transport implements Servicable {
 
     public Car(String modelName, int wheelsCount) {
         super(modelName, wheelsCount);
@@ -10,8 +10,14 @@ public class Car extends Transport{
         System.out.println("Меняем покрышку машины");
     }
 
-    public void checkEngine () {
+    public void checkEngine() {
         System.out.println("Проверяем двигатель машины");
     }
 
+
+    @Override
+    public void doService() {
+        updateTyre();
+        checkEngine();
+    }
 }

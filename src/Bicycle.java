@@ -1,4 +1,5 @@
-public class Bicycle extends Transport {
+public class Bicycle extends Transport implements Servicable {
+
 
     public Bicycle(String modelName, int wheelsCount) {
         super(modelName, wheelsCount);
@@ -7,5 +8,10 @@ public class Bicycle extends Transport {
     @Override
     public void updateTyre() {
         System.out.println("Меняем покрышку велосипеда");
+    }
+
+    @Override
+    public void doService() {
+        updateTyre();
     }
 }
