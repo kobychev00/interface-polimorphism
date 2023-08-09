@@ -1,5 +1,5 @@
-public class ServiceStationImpl implements ServiceStation{
-    
+public class ServiceStationImpl implements ServiceStation {
+
     @Override
     public void check(Car car, Bicycle bicycle, Truck truck) {
         if (car != null) {
