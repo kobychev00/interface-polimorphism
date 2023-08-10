@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="708ce213-9af0-447a-9805-888494f3acbd" name="Changes" comment="09.08.2023 19:18">
+    <list default="true" id="708ce213-9af0-447a-9805-888494f3acbd" name="Changes" comment="09.08.2023 21:03">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bicycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Servicable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Servicable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ServiceStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ServiceStation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ServiceStationImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ServiceStationImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Transport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Truck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +72,7 @@
       <updated>1691508487821</updated>
       <workItem from="1691508489746" duration="2802000" />
       <workItem from="1691595437310" duration="1089000" />
-      <workItem from="1691597761888" duration="1088000" />
+      <workItem from="1691597761888" duration="1514000" />
     </task>
     <task id="LOCAL-00001" summary="08.08.2023 18:30">
       <created>1691508580126</created>
@@ -110,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691597906308</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="09.08.2023 21:03">
+      <created>1691604244207</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1691604244207</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +130,7 @@
     <MESSAGE value="08.08.2023 18:30" />
     <MESSAGE value="08.08.2023 19:12" />
     <MESSAGE value="09.08.2023 19:18" />
-    <option name="LAST_COMMIT_MESSAGE" value="09.08.2023 19:18" />
+    <MESSAGE value="09.08.2023 21:03" />
+    <option name="LAST_COMMIT_MESSAGE" value="09.08.2023 21:03" />
   </component>
 </project>
