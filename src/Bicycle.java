@@ -6,8 +6,10 @@ public class Bicycle extends Transport implements Servicable {
     }
 
     @Override
-    public void updateTyre() {
-        System.out.println("Меняем покрышку велосипеда");
+    public void updateTyre () {
+        for (int i = 0; i < wheelsCount; i++) {
+            System.out.println("Меняем покрышку велосипеда");
+        }
     }
 
     @Override

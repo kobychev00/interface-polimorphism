@@ -3,7 +3,9 @@ public abstract class Transport {
     public int wheelsCount;
 
     public void updateTyre () {
-        System.out.print("Меняем покрышку");
+        for (int i = 0; i < wheelsCount; i++) {
+            System.out.println("Меняем покрышку");
+        }
     }
 
     public Transport(String modelName, int wheelsCount) {

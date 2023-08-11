@@ -6,12 +6,14 @@ public class Car extends Transport implements Servicable {
 
 
     @Override
-    public void updateTyre() {
-        System.out.println("Меняем покрышку машины");
+    public void updateTyre () {
+        for (int i = 0; i < wheelsCount; i++) {
+            System.out.println("Меняем покрышку автомобиля");
+        }
     }
 
     public void checkEngine() {
-        System.out.println("Проверяем двигатель машины");
+        System.out.println("Проверяем двигатель автомобиля");
     }
 
 

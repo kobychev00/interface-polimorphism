@@ -12,10 +12,20 @@ public class Main {
 
         ServiceStationImpl station = new ServiceStationImpl();
         station.check(car);
+        printSeparator();
         station.check(car2);
+        printSeparator();
         station.check(bicycle);
+        printSeparator();
         station.check(bicycle2);
+        printSeparator();
         station.check(truck);
+        printSeparator();
         station.check(truck2);
+
+    }
+    public static void printSeparator() {
+        System.out.println("--------------------------------------");
+        System.out.println("Следующий объект обслуживания");
     }
 }

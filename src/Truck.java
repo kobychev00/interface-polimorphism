@@ -5,8 +5,10 @@ public class Truck extends Car implements Servicable {
     }
 
     @Override
-    public void updateTyre() {
-        System.out.println("Меняем покрышку грузовика");
+    public void updateTyre () {
+        for (int i = 0; i < wheelsCount; i++) {
+            System.out.println("Меняем покрышку грузовика");
+        }
     }
 
     @Override
