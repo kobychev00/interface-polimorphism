@@ -1,5 +1,4 @@
 public interface Servicable {
 
-    static void doService(Transport transport) {
-    }
+    void doService();
 }

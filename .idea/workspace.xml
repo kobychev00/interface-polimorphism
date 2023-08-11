@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="708ce213-9af0-447a-9805-888494f3acbd" name="Changes" comment="09.08.2023 21:03">
+    <list default="true" id="708ce213-9af0-447a-9805-888494f3acbd" name="Changes" comment="10.08.2023 10:10">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +72,7 @@
       <updated>1691508487821</updated>
       <workItem from="1691508489746" duration="2802000" />
       <workItem from="1691595437310" duration="1089000" />
-      <workItem from="1691597761888" duration="1514000" />
+      <workItem from="1691597761888" duration="2471000" />
     </task>
     <task id="LOCAL-00001" summary="08.08.2023 18:30">
       <created>1691508580126</created>
@@ -109,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691604244207</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="10.08.2023 10:10">
+      <created>1691651429903</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691651429903</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +138,7 @@
     <MESSAGE value="08.08.2023 19:12" />
     <MESSAGE value="09.08.2023 19:18" />
     <MESSAGE value="09.08.2023 21:03" />
-    <option name="LAST_COMMIT_MESSAGE" value="09.08.2023 21:03" />
+    <MESSAGE value="10.08.2023 10:10" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.08.2023 10:10" />
   </component>
 </project>
