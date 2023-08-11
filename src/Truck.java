@@ -6,16 +6,16 @@ public class Truck extends Car implements Servicable {
 
     @Override
     public void updateTyre() {
-        System.out.println("Меняем покрышку машины");
+        System.out.println("Меняем покрышку грузовика");
     }
 
     @Override
     public void checkEngine() {
-        System.out.println("Проверяем двигатель машины");
+        System.out.println("Проверяем двигатель грузовика");
     }
 
     public void checkTrailer() {
-        System.out.println("Проверяем прицеп");
+        System.out.println("Проверяем прицеп грузовика");
     }
 
     @Override
