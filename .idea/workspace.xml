@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="708ce213-9af0-447a-9805-888494f3acbd" name="Changes" comment="" />
+    <list default="true" id="708ce213-9af0-447a-9805-888494f3acbd" name="Changes" comment="11.08.2023 19:52">
+      <change beforePath="$PROJECT_DIR$/src/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bicycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Transport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Truck.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2ThwBK3QEf5i37Kd34pg66Unnqm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -13,13 +41,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="interface-polimorphism" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,8 +74,72 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1691508487821</updated>
+      <workItem from="1691508489746" duration="2802000" />
+      <workItem from="1691595437310" duration="1089000" />
+      <workItem from="1691597761888" duration="2471000" />
+      <workItem from="1691772385648" duration="672000" />
     </task>
+    <task id="LOCAL-00001" summary="08.08.2023 18:30">
+      <created>1691508580126</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691508580126</updated>
+    </task>
+    <task id="LOCAL-00002" summary="08.08.2023 18:30">
+      <created>1691508619137</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691508619137</updated>
+    </task>
+    <task id="LOCAL-00003" summary="08.08.2023 19:12">
+      <created>1691511181371</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691511181372</updated>
+    </task>
+    <task id="LOCAL-00004" summary="09.08.2023 19:18">
+      <created>1691597906308</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691597906308</updated>
+    </task>
+    <task id="LOCAL-00005" summary="09.08.2023 21:03">
+      <created>1691604244207</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1691604244207</updated>
+    </task>
+    <task id="LOCAL-00006" summary="10.08.2023 10:10">
+      <created>1691651429903</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691651429903</updated>
+    </task>
+    <task id="LOCAL-00007" summary="11.08.2023 19:51">
+      <created>1691772670286</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1691772670286</updated>
+    </task>
+    <task id="LOCAL-00008" summary="11.08.2023 19:52">
+      <created>1691772778358</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1691772778358</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -41,5 +151,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="08.08.2023 18:30" />
+    <MESSAGE value="08.08.2023 19:12" />
+    <MESSAGE value="09.08.2023 19:18" />
+    <MESSAGE value="09.08.2023 21:03" />
+    <MESSAGE value="10.08.2023 10:10" />
+    <MESSAGE value="11.08.2023 19:51" />
+    <MESSAGE value="11.08.2023 19:52" />
+    <MESSAGE value="11.08.2023 19:53" />
+    <option name="LAST_COMMIT_MESSAGE" value="11.08.2023 19:53" />
   </component>
 </project>
